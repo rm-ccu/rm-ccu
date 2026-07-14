@@ -29,10 +29,6 @@
 
 ### `stats`
 
-<p>
-  <img src="https://github-readme-stats-three-rouge-50.vercel.app/api?username=rm-ccu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-</p>
-
 <div align="center">
   <table>
     <tr>
