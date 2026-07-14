@@ -9,9 +9,9 @@
 [![Website](https://img.shields.io/badge/rorym.dev-000000?style=flat-square&logo=firefox&logoColor=white)](https://rorym.dev)
 <a href="https://linkedin.com/in/rory-mcculloch">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.19.0/icons/linkedin.svg" width="14" height="14" style="vertical-align:middle; margin-right:2px;" alt="" />
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" style="vertical-align:middle;" />
+  <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square" alt="LinkedIn" style="vertical-align:middle;" />
 </a>
-[![Gmail](https://img.shields.io/badge/rory.mccu%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rory.mccu@gmail.com)
+[![Gmail](https://img.shields.io/badge/rory.mccu%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:rory.mccu@gmail.com)
 
 ---
 
