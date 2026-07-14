@@ -7,8 +7,8 @@
 `EE/CS @ uOttawa` · building with **React**, **Python**, and **embedded systems** · Ottawa, ON
 
 [![Website](https://img.shields.io/badge/rorym.dev-000000?style=flat-square&logo=firefox&logoColor=white)](https://rorym.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rory-mcculloch)
-[![Gmail](https://img.shields.io/badge/rory.mccu%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rory.mccu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rory-mcculloch)
+[![Gmail](https://img.shields.io/badge/rory.mccu%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:rory.mccu@gmail.com)
 
 ---
 
