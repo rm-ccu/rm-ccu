@@ -32,7 +32,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats-three-rouge-50.vercel.app/api/top-langs/?username=rm-ccu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top languages" /></td>
+      <td><img src="https://github-readme-stats-three-rouge-50.vercel.app/api/top-langs/?username=rm-ccu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&v=2" alt="Top languages" /></td>
       <td><img src="https://streak-stats.demolab.com/?user=rm-ccu&theme=dark&hide_border=true&background=0d1117" alt="GitHub streak" /></td>
     </tr>
   </table>
