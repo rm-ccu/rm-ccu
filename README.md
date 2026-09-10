@@ -4,7 +4,7 @@
 
 # Rory McCulloch
 
-`EE/CS @ uOttawa` · building with **React**, **Python**, and **embedded systems** · Ottawa, ON
+`EE/CS @ uOttawa` · building with **C++**, **Python**, and **embedded systems** · Ottawa, ON
 
 [![Website](https://img.shields.io/badge/rorym.dev-000000?style=flat-square&logo=firefox&logoColor=white)](https://rorym.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square)](https://linkedin.com/in/rory-mcculloch)
